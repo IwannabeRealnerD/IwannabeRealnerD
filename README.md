@@ -5,7 +5,7 @@ Maaaaayyybe js code is the best way to introduce myself :)
 const khanne = {
   koreanName: "정홍관",
   realLanguage: [Korean, English],
-  wasBornAt: 1993
+  wasBornAt: 1993,
   programmingLanguage: [Javascript, Typescript, HTML, C],
   basedOn: [React, Redux, Node, TailwindCSS, VSCode],
   wantToLearn: [Electron, iOSProgramming],
