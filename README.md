@@ -9,6 +9,6 @@ const khanne = {
   programmingLanguage: [Javascript, Typescript, HTML, C],
   basedOn: [React, Redux, Node, TailwindCSS, VSCode],
   wantToLearn: [Electron, iOSProgramming],
-  currently : "Working as pen-tester and programming React and TypeScript"
+  currently : "Working as pen-tester and Love React, TypeScript"
 }
 ```
