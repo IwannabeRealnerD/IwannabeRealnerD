@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=IwannabeRealnerD's%20git&fontColor=ffffff&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=IwannabeRealnerD's%20git&fontColor=ffffff&fontSize=60)
 
 Maaaaayyybe js code is the best way to introduce myself :)
 
