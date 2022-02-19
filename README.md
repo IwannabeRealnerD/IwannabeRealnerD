@@ -1,7 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3545FE&height=300&section=header&text=IwannabeRealnerD's%20git&fontColor=ffffff&fontSize=60)
-
-Maaaaayyybe js code is the best way to introduce myself :)
-
 ```javascript
 const khanne = {
   koreanName: "정홍관",
@@ -13,4 +10,6 @@ const khanne = {
   currently : "Working as pen-tester and Love React, TypeScript"
 }
 ```
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IwannabeRealnerD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- Interested in TS/JS Environment :)
