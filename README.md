@@ -6,7 +6,7 @@ const khanne = {
   wasBornAt: 1993,
   programmingLanguage: [Javascript, Typescript, HTML, C],
   basedOn: [React, Redux, Node, TailwindCSS, VSCode],
-  wantToLearn: [Electron, iOSProgramming],
+  wantToLearn: [Electron, iOSProgramming, Flutter],
   currently : "Working as pen-tester and Love React, TypeScript"
 }
 ```
