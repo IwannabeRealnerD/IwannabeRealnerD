@@ -13,6 +13,7 @@ const khanne = {
   currently : "Working as pen-tester and Love React, TypeScript"
 }
 ```
+
 <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IwannabeRealnerD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
