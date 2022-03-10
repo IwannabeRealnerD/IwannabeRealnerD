@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=3545FE&height=300&section=header&text=IwannabeRealnerD's%20git&fontColor=ffffff&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3545FE&height=300&section=header&text=IwannabeRealnerD's%20git&fontColor=ffffff&fontSize=60)
   
 </div>
 
@@ -17,7 +17,9 @@ const khanne = {
 ```
 
 <div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IwannabeRealnerD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 - Interested in TS/JS Ecosystem :)
