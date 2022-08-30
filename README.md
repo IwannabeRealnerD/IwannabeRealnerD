@@ -10,9 +10,9 @@ const khanne = {
   humanLanguage: [Korean, English],
   wasBornAt: 1993,
   programmingLanguage: [Javascript, Typescript, HTML, C],
-  basedOn: [React, Redux, NodeJS, VSCode],
+  basedOn: [React, NodeJS, VSCode],
   wantToLearn: [Electron, iOSProgramming, Flutter],
-  currently : "Working as pen-tester and Love React, TypeScript"
+  currently : "Working as a FE-Programmer and Love React, TypeScript"
 }
 ```
 
