@@ -6,6 +6,5 @@
 </div>
 
 
-- Interested in TS/JS Ecosystem :)
-- More like.... TS Ecosystem
+- Typescript lover who belives that perfect type exists.
 - If you want to get to know me more, please check my programming blog [blog.iwannaberealnerd.ninja](https://blog.iwannaberealnerd.ninja/develog)
