@@ -7,4 +7,4 @@
 
 
 - Typescript lover who belives perfect type exists.
-- If you want to get to know me more, please visit my [programming blog](https://blog.iwannaberealnerd.ninja/develog)
+- If you want to get to know me more, please visit my [develog](https://blog.iwannaberealnerd.ninja/develog)
