@@ -6,5 +6,5 @@
 </div>
 
 
-- Typescript lover who belives that perfect type exists.
-- If you want to get to know me more, please check my programming blog [blog.iwannaberealnerd.ninja](https://blog.iwannaberealnerd.ninja/develog)
+- Typescript lover who belives perfect type exists.
+- If you want to get to know me more, please visit my [programming blog](https://blog.iwannaberealnerd.ninja/develog)
